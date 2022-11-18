@@ -20,6 +20,8 @@ vendor/**/PROJECT
 
 vendor/**/*_test.go
 
+vendor
+
 **/coverage.out
 
 **/.classpath
